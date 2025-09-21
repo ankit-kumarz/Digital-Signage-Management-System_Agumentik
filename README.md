@@ -74,7 +74,7 @@ signage_system/
 
 1. **Clone/Download the project**
    ```bash
-   git clone [repository-url]
+   git clone [https://github.com/ankit-kumarz/Digital-Signage-Management-System_Agumentik]
    cd signage_system
    ```
 
