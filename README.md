@@ -1,5 +1,3 @@
-# Responsive_Sinage_System_Agumentik
-=======
 # Digital Signage Management System
 
 A comprehensive web-based digital signage management system built with PHP and MySQL for managing and displaying digital content across multiple screens.
@@ -192,4 +190,3 @@ This digital signage management system demonstrates:
 - **API development** for system integrations
 
 The project showcases practical problem-solving skills and the ability to create production-ready web applications suitable for real-world business environments.
->>>>>>> a719c2c (Initial commit: Digital Signage Management System for Argumentik Group)
