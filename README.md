@@ -164,7 +164,7 @@ This project is developed for educational and assessment purposes.
 
 ## 👨‍💻 Developer Information
 
-**Developer**: Ankit Kumar  [Github: https://github.com/ankit-kumarz]
+**Developer**: Ankit Kumar[Github: https://github.com/ankit-kumarz]  
 **Purpose**: Technical Assessment - Argumentik Group of Companies  
 **Development Context**: Campus Recruitment Drive  
 **Year**: 2025
@@ -172,7 +172,7 @@ This project is developed for educational and assessment purposes.
 ## 🔗 Contact
 
 For any queries regarding this project:
-- **Developer**: Ankit Kumar(https://github.com/ankit-kumarz)
+- **Developer**: Ankit Kumar
 - **Project Type**: Campus Recruitment Assessment
 - **Company**: Argumentik Group of Companies
 
