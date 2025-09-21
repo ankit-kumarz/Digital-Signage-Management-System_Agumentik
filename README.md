@@ -6,6 +6,12 @@ A comprehensive web-based digital signage management system built with PHP and M
 
 This project was developed by **Ankit Kumar** as part of a technical assessment for **Argumentik Group of Companies** during their campus recruitment drive. The system provides a complete solution for managing digital signage content, including image and video displays, screen grouping, and real-time synchronization.
 
+
+## 🚀 Demo  
+<a href="https://youtu.be/jHOzEXmhpl4" target="_blank">
+  <img src="https://img.shields.io/badge/Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube" alt="Watch Demo">
+</a> 
+
 ## ✨ Features
 
 ### Core Functionality
