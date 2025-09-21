@@ -172,7 +172,7 @@ This project is developed for educational and assessment purposes.
 ## 🔗 Contact
 
 For any queries regarding this project:
-- **Developer**: Ankit Kumar
+- **Developer**: Ankit Kumar(https://github.com/ankit-kumarz)
 - **Project Type**: Campus Recruitment Assessment
 - **Company**: Argumentik Group of Companies
 
