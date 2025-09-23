@@ -51,7 +51,7 @@ signage_system/
 ├── groups.php             # Group management 
 ├── storage.php            # File storage management
 ├── sync.php               # Content synchronization
-├── assets/
+├── assets/ 
 │   ├── css/
 │   │   └── style.css      # Custom styling
 │   └── js/
