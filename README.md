@@ -1,6 +1,6 @@
 # Digital Signage Management System
 
-A comprehensive web-based digital signage management system built with PHP and MySQL for managing and displaying digital content across multiple screens.
+A comprehensive web-based digital signage management system built with PHP and MySQL for managing and displaying digital content across multiple screens. 
 
 ## 📋 Project Overview 
 
