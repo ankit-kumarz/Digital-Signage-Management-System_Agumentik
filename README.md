@@ -29,7 +29,7 @@ This project was developed by **Ankit Kumar** as part of a technical assessment 
 - **File Validation**: Secure file upload with type and size validation
 - **Session Security**: Protected routes and user authentication
 - **Database Integration**: MySQL database for data persistence
-- **Clean Architecture**: Modular code structure with separation of concerns
+- **Clean Architecture**: Modular code structure with separation of concerns 
 
 ## 🛠️ Technology Stack
 
