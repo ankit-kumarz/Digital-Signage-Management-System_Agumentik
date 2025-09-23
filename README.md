@@ -10,7 +10,7 @@ This project was developed by **Ankit Kumar** as part of a technical assessment 
 ## 🚀 Demo  
 <a href="https://youtu.be/jHOzEXmhpl4" target="_blank">
   <img src="https://img.shields.io/badge/Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube" alt="Watch Demo">
-</a> 
+</a>  
 
 ## ✨ Features
 
