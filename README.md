@@ -59,7 +59,7 @@ signage_system/
 ├── config/
 │   ├── config.php         # Application configuration
 │   └── database.php       # Database configuration
-├── includes/
+├── includes/ 
 │   ├── header.php         # Common header
 │   ├── footer.php         # Common footer
 │   └── functions.php      # Core functions
