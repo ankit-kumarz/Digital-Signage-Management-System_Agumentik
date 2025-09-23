@@ -40,7 +40,7 @@ This project was developed by **Ankit Kumar** as part of a technical assessment 
 - **Server**: Apache/Nginx compatible
 
 ## 📁 Project Structure
-
+ 
 ```
 signage_system/
 ├── api.php                 # API endpoints
