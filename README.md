@@ -67,7 +67,7 @@ signage_system/
     ├── images/            # Image storage
     └── videos/            # Video storage
 ```
-
+ 
 ## 🚀 Installation & Setup
 
 ### Prerequisites
