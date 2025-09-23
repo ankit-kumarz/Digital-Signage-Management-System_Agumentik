@@ -76,7 +76,7 @@ signage_system/
 - Apache/Nginx web server
 - Composer (optional, for dependencies)
 
-### Installation Steps
+### Installation Steps 
 
 1. **Clone/Download the project**
    ```bash
