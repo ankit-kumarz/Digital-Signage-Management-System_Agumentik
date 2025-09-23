@@ -48,7 +48,7 @@ signage_system/
 ├── login.php              # User authentication
 ├── logout.php             # Session termination
 ├── screens.php            # Screen management
-├── groups.php             # Group management
+├── groups.php             # Group management 
 ├── storage.php            # File storage management
 ├── sync.php               # Content synchronization
 ├── assets/
