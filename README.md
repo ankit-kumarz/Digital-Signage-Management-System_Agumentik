@@ -45,7 +45,7 @@ This project was developed by **Ankit Kumar** as part of a technical assessment 
 signage_system/
 ├── api.php                 # API endpoints
 ├── dashboard.php           # Main dashboard
-├── login.php              # User authentication
+├── login.php              # User authentication 
 ├── logout.php             # Session termination
 ├── screens.php            # Screen management
 ├── groups.php             # Group management 
