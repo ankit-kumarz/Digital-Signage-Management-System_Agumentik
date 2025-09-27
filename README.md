@@ -27,7 +27,7 @@ This project was developed by **Ankit Kumar** as part of a technical assessment 
 - **Responsive Design**: Mobile-friendly interface using Bootstrap
 - **RESTful API**: API endpoints for external integrations
 - **File Validation**: Secure file upload with type and size validation
-- **Session Security**: Protected routes and user authentication
+- **Session Security**: Protected routes and user authentication 
 - **Database Integration**: MySQL database for data persistence
 - **Clean Architecture**: Modular code structure with separation of concerns 
 
