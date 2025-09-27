@@ -22,7 +22,7 @@ This project was developed by **Ankit Kumar** as part of a technical assessment 
 - **Group Management**: Organize screens into logical groups for easier management
 - **Real-time Synchronization**: Live content updates across all connected screens
 - **File Storage Management**: Organized media file handling with size restrictions
-
+ 
 ### Technical Features
 - **Responsive Design**: Mobile-friendly interface using Bootstrap
 - **RESTful API**: API endpoints for external integrations
