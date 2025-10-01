@@ -35,11 +35,11 @@ This project was developed by **Ankit Kumar** as part of a technical assessment 
 
 - **Backend**: PHP 7.4+
 - **Database**: MySQL 5.7+
-- **Frontend**: HTML5, CSS3, Bootstrap 5, JavaScript
+- **Frontend**: HTML5, CSS3, Bootstrap 5, JavaScript 
 - **Icons**: Font Awesome 
 - **Server**: Apache/Nginx compatible
 
-## 📁 Project Structure
+## 📁 Project Structure 
  
 ```
 signage_system/
