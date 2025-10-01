@@ -12,7 +12,7 @@ This project was developed by **Ankit Kumar** as part of a technical assessment 
   <img src="https://img.shields.io/badge/Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube" alt="Watch Demo">
 </a>  
 
-## ✨ Features
+## ✨ Features:
 
 ### Core Functionality
 - **User Authentication**: Secure login/logout system with session management
