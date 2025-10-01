@@ -75,7 +75,7 @@ signage_system/
 - MySQL 5.7 or higher
 - Apache/Nginx web server
 - Composer (optional, for dependencies)
-
+ 
 ### Installation Steps 
 
 1. **Clone/Download the project**
