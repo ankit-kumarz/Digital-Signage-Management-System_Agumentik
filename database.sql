@@ -56,7 +56,7 @@ CREATE TABLE `screens` (
 -- Media Table
 -- ===============================================
 CREATE TABLE `media` (
-    `id` int(11) NOT NULL AUTO_INCREMENT,
+    `id` int(11) NOT NULL AUTO_INCREMENT, 
     `filename` varchar(255) NOT NULL,
     `original_name` varchar(255) NOT NULL,
     `file_type` enum('image', 'video') NOT NULL,
