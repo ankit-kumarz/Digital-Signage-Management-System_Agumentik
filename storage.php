@@ -62,7 +62,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             if (!empty($chartName) && !empty($chartLabels) && !empty($chartValues) && count($chartLabels) === count($chartValues)) {
                 $chartData = [
                     'labels' => $chartLabels,
-                    'values' => array_map('floatval', $chartValues),
+                    'values' => array_map('floatval', $chartValues), 
                     'type' => $_POST['chart_type'] ?? 'bar'
                 ];
                 
