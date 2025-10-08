@@ -1,7 +1,7 @@
 -- ===============================================
 -- Digital Signage Management System Database
 -- Developer: Ankit Kumar
--- Project: Agumentik Group Campus Recruitment
+-- Project: Agumentik Group of company Campus Recruitment
 -- Date: September 2025
 -- ===============================================
 
