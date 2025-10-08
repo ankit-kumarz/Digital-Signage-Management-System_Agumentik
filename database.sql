@@ -135,7 +135,7 @@ CREATE TABLE `screen_groups` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 -- ===============================================
--- Playlists Table
+-- Playlists Table 
 -- ===============================================
 CREATE TABLE `playlists` (
     `id` int(11) NOT NULL AUTO_INCREMENT,
