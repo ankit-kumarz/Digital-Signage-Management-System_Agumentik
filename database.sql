@@ -97,7 +97,7 @@ CREATE TABLE `groups` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 -- ===============================================
--- Screen Media Assignment Table
+-- Screen Media Assignment Table//
 -- ===============================================
 CREATE TABLE `screen_media` (
     `id` int(11) NOT NULL AUTO_INCREMENT,
