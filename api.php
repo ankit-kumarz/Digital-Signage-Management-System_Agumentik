@@ -88,7 +88,7 @@ try {
                 $status['group_last_update'] = $group ? strtotime($group['updated_at']) : 0;
             }
             
-            echo json_encode($status);
+            echo json_encode($status); 
             break;
             
         case 'ping':
