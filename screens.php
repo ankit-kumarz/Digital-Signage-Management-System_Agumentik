@@ -7,7 +7,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $slug = sanitizeInput($_POST['screen_slug']);
     $passcode = $_POST['screen_passcode'];
     $mediaIds = $_POST['media'] ?? [];
-    $chartIds = $_POST['charts'] ?? [];
+    $chartIds = $_POST['charts'] ?? []; 
     
     if (!empty($name) && !empty($slug) && !empty($passcode)) {
         if (createScreen($name, $slug, $passcode)) {
