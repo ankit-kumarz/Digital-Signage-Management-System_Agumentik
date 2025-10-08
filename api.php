@@ -53,7 +53,7 @@ try {
             ]);
             break;
             
-        case 'broadcast_global_update':
+        case 'broadcast_global_update': 
             // Update all screens and groups
             $pdo = new PDO("mysql:host=localhost;dbname=signage_system", 'root', '4821');
             
