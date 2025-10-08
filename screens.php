@@ -73,7 +73,7 @@ include 'includes/header.php';
                                     <label for="screen_name" class="form-label">Screen Name *</label>
                                     <input type="text" class="form-control" id="screen_name" name="screen_name" 
                                            placeholder="Enter screen name" required>
-                                </div>
+                                </div> 
                                 
                                 <div class="mb-3">
                                     <label for="screen_slug" class="form-label">URL Slug *</label>
