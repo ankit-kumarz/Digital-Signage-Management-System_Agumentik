@@ -4,7 +4,7 @@ requireLogin();
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     if (isset($_POST['action'])) {
         if ($_POST['action'] === 'upload') {
-            $uploadSuccess = false;
+            $uploadSuccess = false; 
             
             if (isset($_FILES['images']) && !empty($_FILES['images']['name'][0])) {
                 foreach ($_FILES['images']['name'] as $key => $name) { 
