@@ -48,7 +48,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 // Trigger content sync for all screens 
                 triggerGlobalContentSync(); 
             } else {
-                $error = 'Failed to upload files. Please check file types and sizes.';
+                $error = 'Failed to upload files. Please check file types and sizes.'; 
             }
         } elseif ($_POST['action'] === 'delete') {
             header('Content-Type: application/json');
