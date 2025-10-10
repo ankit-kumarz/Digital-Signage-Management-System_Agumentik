@@ -7,7 +7,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $uploadSuccess = false;
             
             if (isset($_FILES['images']) && !empty($_FILES['images']['name'][0])) {
-                foreach ($_FILES['images']['name'] as $key => $name) {
+                foreach ($_FILES['images']['name'] as $key => $name) { 
                     if (!empty($name)) {
                         $file = [
                             'name' => $_FILES['images']['name'][$key],
