@@ -17,7 +17,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                             'size' => $_FILES['images']['size'][$key]
                         ];
                         
-                        if (uploadFile($file, 'image')) {
+                        if (uploadFile($file, 'image')){
                             $uploadSuccess = true;
                         }
                     }
