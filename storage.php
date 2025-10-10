@@ -45,8 +45,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             if ($uploadSuccess) {
                 $success = 'Files uploaded successfully!';
                 
-                // Trigger content sync for all screens
-                triggerGlobalContentSync();
+                // Trigger content sync for all screens 
+                triggerGlobalContentSync(); 
             } else {
                 $error = 'Failed to upload files. Please check file types and sizes.';
             }
