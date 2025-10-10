@@ -9,7 +9,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             if (isset($_FILES['images']) && !empty($_FILES['images']['name'][0])) {
                 foreach ($_FILES['images']['name'] as $key => $name) { 
                     if (!empty($name)) {
-                        $file = [
+                        $file = [ 
                             'name' => $_FILES['images']['name'][$key],
                             'type' => $_FILES['images']['type'][$key],
                             'tmp_name' => $_FILES['images']['tmp_name'][$key],
