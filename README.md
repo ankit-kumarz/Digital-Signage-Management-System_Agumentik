@@ -152,7 +152,7 @@ The system includes built-in validation and error handling:
 - Chrome 70+
 - Firefox 65+
 - Safari 12+
-- Edge 79+
+- Edge 79+ 
 - Internet Explorer 11+ (limited support)
 
 ## 🤝 Contributing
