@@ -4,7 +4,7 @@ A comprehensive web-based digital signage management system built with PHP and M
 
 ## 📋 Project Overview  
 
-This project was developed by **Ankit Kumar** as part of a technical assessment for **Agumentik Group of Companies** during their campus recruitment drive. The system provides a complete solution for managing digital signage content, including image and video displays, screen grouping, and real-time synchronization. 
+This project was developed by **Ankit Kumar** as part of a technical assessment for **Agumentik Group of Companies** during their campus recruitment drive. The system provides a complete solution for managing digital signage content, including image and video displays, screen grouping, and real-time synchronization.
 
 
 ## 🚀 Demo   
