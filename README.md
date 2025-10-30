@@ -91,7 +91,7 @@ signage_system/
 
 3. **Configuration**
    - Update `config/config.php` with your server settings
-   - Set appropriate file permissions for the `uploads/` directory
+   - Set appropriate file permissions for the `uploads/` directory 
    ```bash
    chmod 755 uploads/
    chmod 755 uploads/images/
