@@ -107,7 +107,7 @@ signage_system/
    - Navigate to your configured URL
    - Use the login system to access the dashboard
 
-## 💻 Usage 
+## 💻 Usage  
 
 ### Admin Dashboard
 1. **Login**: Access the system through the login page
